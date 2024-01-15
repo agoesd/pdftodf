@@ -1,5 +1,2 @@
-streamlit
-pandas
-tabula
-io
-sys
+pandas==1.3.0
+tabula==1.0.5
