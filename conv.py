@@ -1,5 +1,10 @@
 import streamlit as st
 import pandas as pd
+import sys
+
+# Install tabula-py
+!{sys.executable} -m pip install tabula-py
+
 import tabula
 from io import BytesIO
 
