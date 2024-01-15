@@ -1,0 +1,4 @@
+pandas
+tabula
+tabula-py
+openjdk-17-jre
